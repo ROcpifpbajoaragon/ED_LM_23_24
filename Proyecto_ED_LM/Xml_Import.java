@@ -1,16 +1,13 @@
 /**
  * Xml_Import
  * 
- * @author Dpto. Informática CPIFP Bajo Aragón
- * @version 1.0, 2024/02/01
- * 
  * Importa un documento xml y lo muestra por pantalla.
  * El xml contiene monumentos de Zaragoza ofrecidos en https://www.zaragoza.es/sede/
- * 
- * Más información:
- *   introducción: https://juanjosecanbus.wordpress.com/2014/10/05/introduccion-a-la-api-dom-de-java-ad/
- *   java dom: https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/org/w3c/dom/package-summary.html
- *   java parsers: https://docs.oracle.com/javase/8/docs/api/index.html?javax/xml/parsers/package-summary.html
+ * @author Dpto. Informática CPIFP Bajo Aragón
+ * @version 1.0, 2024/02/01
+ * @see https://juanjosecanbus.wordpress.com/2014/10/05/introduccion-a-la-api-dom-de-java-ad/
+ * @see https://docs.oracle.com/javase%2F7%2Fdocs%2Fapi%2F%2F/org/w3c/dom/package-summary.html
+ * @see https://docs.oracle.com/javase/8/docs/api/index.html?javax/xml/parsers/package-summary.html
  */
 
 import java.net.*;
